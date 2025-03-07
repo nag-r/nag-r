@@ -1,6 +1,6 @@
-# **Technical Product Manager | Machine Learning Enthusiast | CS Grad Student at Harvard | NYU Alum**
+# **Technical Product Manager | Machine Learning Enthusiast | CS Grad Student at Harvard Extension School | NYU Alum**
 
-I am a Senior Technical Product Manager in finance industry, specializing in delivering complex data-driven products and solutions. My work spans technical product ownership, team leadership, and end-to-end project management of cutting-edge software and analytics tools. Currently, I am pursuing a Master of Liberal Arts in Computer Science at Harvard to strengthen my technical foundation in areas like algorithms, system design, machine learning, and generative intelligence.
+I am a Senior Technical Product Manager in finance industry, specializing in delivering complex data-driven products and solutions. My work spans technical product ownership, team leadership, and end-to-end project management of cutting-edge software and analytics tools. Currently, I am pursuing a Master of Liberal Arts in Computer Science at Harvard Extension School to strengthen my technical foundation in areas like algorithms, system design, machine learning, and generative intelligence.
 
 ## **Core Competencies:**
 - **Technical Product Management:** Proven expertise in driving product vision, strategy, and execution for data analytics, AI tools, and enterprise-level applications.
