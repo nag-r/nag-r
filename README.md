@@ -2,7 +2,7 @@
 
 **Senior Technical Program Manager at Amazon Retail | Computer Science Graduate Student at Harvard Extension School | NYU Alum**
 
-I’m a Senior Technical Program Manager at Amazon Retail, managing engineering projects from planning through delivery. I work with engineering, product, and business partners to clarify requirements, coordinate dependencies, manage risks, and keep delivery aligned with customer and business goals.
+I’m a Senior Technical Program Manager at Amazon Retail, managing engineering projects from planning through delivery. I work with engineering, product, and business partners to clarify requirements, build foundational tech, coordinate dependencies, manage risks, and keep delivery aligned with customer and business goals.
 
 I’m also pursuing a Master of Liberal Arts in Computer Science at Harvard Extension School, building on my background in technical product management and business analytics.
 
