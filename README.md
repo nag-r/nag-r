@@ -1,23 +1,24 @@
-# **Technical Product Manager | Machine Learning Enthusiast | CS Grad Student at Harvard Extension School | NYU Alum**
+# Nag Rajendran
 
-I am a Senior Technical Product Manager in finance industry, specializing in delivering complex data-driven products and solutions. My work spans technical product ownership, team leadership, and end-to-end project management of cutting-edge software and analytics tools. Currently, I am pursuing a Master of Liberal Arts in Computer Science at Harvard Extension School to strengthen my technical foundation in areas like algorithms, system design, machine learning, and generative intelligence.
+**Senior Technical Program Manager at Amazon Retail | Computer Science Graduate Student at Harvard Extension School | NYU Alum**
 
-## **Core Competencies:**
-- **Technical Product Management:** Proven expertise in driving product vision, strategy, and execution for data analytics, AI tools, and enterprise-level applications.
-- **Systems Design & Architecture:** Skilled in designing scalable, robust systems, with a focus on optimizing performance and user experience.
-- **Machine Learning & AI:** Proficient in implementing machine learning models, and exploring advanced ML applications such as generative intelligence.
-- **Programming:** Experienced in Python, Java, SQL, and leveraging cloud technologies (Azure) for scalable data solutions.
-- **Cross-Functional Leadership:** Leading teams of data engineers, scientists, and stakeholders to align technical solutions with business needs.
+I’m a Senior Technical Program Manager at Amazon Retail, managing engineering projects from planning through delivery. I work with engineering, product, and business partners to clarify requirements, coordinate dependencies, manage risks, and keep delivery aligned with customer and business goals.
 
-## **What I’m Working On:**
-- Building expertise in generative intelligence and advanced machine learning applications as part of my graduate studies at Harvard.
-- Developing open-source projects and contributing to technical communities, focusing on AI, machine learning, and scalable system designs.
-- Transitioning to product management roles in more product-focused organizations, beyond the finance sector.
+I’m also pursuing a Master of Liberal Arts in Computer Science at Harvard Extension School, building on my background in technical product management and business analytics.
 
-## **Let's Connect:**
-I am always open to collaborating on innovative projects, particularly in AI, machine learning, and product management. Feel free to explore my repositories and connect with me at nar794@g.harvard.edu for discussions on technology, product strategy, or open-source collaborations.
+## Areas of Focus
 
-<!---
-nag-r/nag-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Technical Program Management:** Program planning, milestones, dependency management, risk resolution, and delivery.
+- **Cross-Functional Leadership:** Aligning engineering, product, and business stakeholders on scope, priorities, and execution.
+- **Technical Interests:** System design, distributed systems, data engineering, machine learning, and generative AI.
+- **Programming:** Python, Java, Scala, and SQL, with project work in Apache Spark.
+
+## What I’m Working On
+
+- Managing engineering projects at Amazon Retail.
+- Deepening my knowledge of algorithms, system design, and distributed data processing.
+- Building Scala and Apache Spark projects through graduate coursework.
+
+## Let’s Connect
+
+I’m interested in conversations about technical program management, software engineering, data, and AI. Reach me at [nar794@g.harvard.edu](mailto:nar794@g.harvard.edu).
